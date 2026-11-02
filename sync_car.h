@@ -9,7 +9,8 @@ struct station {
 
     int car_present;
     int free_seats;
-    int boarded;
+    int waiting;
+    int to_board;
 };
 
 void station_init(struct station *station);
