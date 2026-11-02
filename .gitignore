@@ -1,0 +1,8 @@
+evidencias.log
+
+# artefatos de build
+*.o
+sync_car
+
+# empacotamento final
+*.tar
