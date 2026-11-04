@@ -4,11 +4,7 @@ evidencias.log
 *.o
 sync_car
 
-# binarios dos testes proprios (os .c continuam versionados)
-testes/test_unitario
-testes/test_caso_limite
-testes/test_atrasado
-testes/test_car_vazio 
+testes/
 
 # empacotamento final
 *.tar
