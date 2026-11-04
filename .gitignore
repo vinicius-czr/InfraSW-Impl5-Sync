@@ -8,6 +8,7 @@ sync_car
 testes/test_unitario
 testes/test_caso_limite
 testes/test_atrasado
+testes/test_car_vazio 
 
 # empacotamento final
 *.tar
